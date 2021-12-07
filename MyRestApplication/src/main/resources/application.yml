@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: myRestApplication
+  server:
+    port: 9191    
